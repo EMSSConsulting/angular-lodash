@@ -114,7 +114,7 @@
       'values',
       'toPairs',
       'invert',
-      ['functions', 'methods'],
+      'functions',
       'pick',
       'omit',
       'tap',
